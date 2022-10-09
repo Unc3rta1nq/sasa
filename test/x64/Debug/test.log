@@ -1,0 +1,18 @@
+﻿  main.c
+C:\Users\User\source\repos\test\test\main.c(14,15): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\source\repos\test\test\main.c(158,27): error C2065: viewsudoku: необъявленный идентификатор
+C:\Users\User\source\repos\test\test\main.c(158,29): error C2109: для индекса требуется массив или указатель
+C:\Users\User\source\repos\test\test\main.c(158,44): error C2065: solution: необъявленный идентификатор
+C:\Users\User\source\repos\test\test\main.c(158,46): error C2109: для индекса требуется массив или указатель
+C:\Users\User\source\repos\test\test\main.c(164,28): error C2065: solution: необъявленный идентификатор
+C:\Users\User\source\repos\test\test\main.c(164,28): warning C4047: функция: "int (*)[9]" отличается по уровням косвенного обращения от "int"
+C:\Users\User\source\repos\test\test\main.c(164,20): warning C4024: fillSudoku: различные типы для формального и фактического параметров 1
+C:\Users\User\source\repos\test\test\main.c(169,26): error C2065: viewsudoku: необъявленный идентификатор
+C:\Users\User\source\repos\test\test\main.c(169,26): warning C4047: функция: "int (*)[9]" отличается по уровням косвенного обращения от "int"
+C:\Users\User\source\repos\test\test\main.c(169,16): warning C4024: printfield: различные типы для формального и фактического параметров 1
+C:\Users\User\source\repos\test\test\main.c(170,25): error C2065: viewsudoku: необъявленный идентификатор
+C:\Users\User\source\repos\test\test\main.c(170,25): warning C4047: функция: "int (*)[9]" отличается по уровням косвенного обращения от "int"
+C:\Users\User\source\repos\test\test\main.c(170,15): warning C4024: gamelogic: различные типы для формального и фактического параметров 1
+C:\Users\User\source\repos\test\test\main.c(170,35): error C2065: solution: необъявленный идентификатор
+C:\Users\User\source\repos\test\test\main.c(170,35): warning C4047: функция: "int (*)[9]" отличается по уровням косвенного обращения от "int"
+C:\Users\User\source\repos\test\test\main.c(170,27): warning C4024: gamelogic: различные типы для формального и фактического параметров 2
